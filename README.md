@@ -15,7 +15,7 @@ Integrate your Dreame robot vacuum (e.g., D9) with Home Assistant over your loca
    - Add this repository as a custom repository in HACS.
    - Install the `Dreame Vacuum` integration from HACS.
 2. **Manual:**
-   - Copy the `dreame_vacuum` folder to your Home Assistant `custom_components` directory.
+   - Copy the `dreame_vacuumd9` folder to your Home Assistant `custom_components` directory.
 
 ## Requirements
 

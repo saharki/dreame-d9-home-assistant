@@ -1,6 +1,6 @@
 {
-  "component.dreame_vacuum.title": "Dreame Vacuum",
-  "component.dreame_vacuum.config.title": "Dreame Vacuum Setup",
-  "component.dreame_vacuum.config.ip_address": "Vacuum IP Address",
-  "component.dreame_vacuum.config.token": "Vacuum Token"
+  "component.dreame_vacuumd9.title": "Dreame Vacuum",
+  "component.dreame_vacuumd9.config.title": "Dreame Vacuum Setup",
+  "component.dreame_vacuumd9.config.ip_address": "Vacuum IP Address",
+  "component.dreame_vacuumd9.config.token": "Vacuum Token"
 }
