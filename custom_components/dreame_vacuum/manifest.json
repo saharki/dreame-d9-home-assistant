@@ -1,0 +1,11 @@
+{
+  "domain": "dreame_vacuum",
+  "name": "Dreame Vacuum",
+  "version": "0.1.0",
+  "documentation": "https://github.com/yourusername/dreame_vacuum",
+  "issue_tracker": "https://github.com/yourusername/dreame_vacuum/issues",
+  "requirements": ["python-miio>=0.5.11"],
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "config_flow": true
+}

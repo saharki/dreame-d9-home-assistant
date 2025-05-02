@@ -1,0 +1,15 @@
+{
+  "title": "Dreame Vacuum",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Dreame Vacuum Setup",
+        "description": "Enter the IP address and token for your Dreame robot vacuum.",
+        "data": {
+          "ip_address": "Vacuum IP Address",
+          "token": "Vacuum Token"
+        }
+      }
+    }
+  }
+}
