@@ -2,10 +2,10 @@
   "domain": "dreame_vacuum_d9",
   "name": "Dreame Vacuum D9",
   "version": "0.1.0",
-  "documentation": "https://github.com/yourusername/dreame_vacuum",
-  "issue_tracker": "https://github.com/yourusername/dreame_vacuum/issues",
+  "documentation": "https://github.com/saharki/dreame-d9-home-assistant",
+  "issue_tracker": "https://github.com/saharki/dreame-d9-home-assistant/issues",
   "requirements": ["python-miio>=0.5.11"],
   "dependencies": [],
-  "codeowners": ["@yourusername"],
+  "codeowners": ["@saharki"],
   "config_flow": true
 }

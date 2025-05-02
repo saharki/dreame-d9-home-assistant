@@ -1,0 +1,10 @@
+{
+  "name": "Dreame Vacuum D9",
+  "content_in_root": false,
+  "domain": "dreame_vacuum_d9",
+  "country": ["all"],
+  "homeassistant": ">=2022.0.0",
+  "iot_class": "local_push",
+  "render_readme": true,
+  "description": "Integration for Dreame robot vacuums using python-miio over local network."
+}
